@@ -15,8 +15,8 @@
    "blocks": ["994", "91", "92"],
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
-      "state": false,
-      "number": 254769918110
+      "state": true,
+      "number": 254754224072
    },
    "replit_url": ""
 }
